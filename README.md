@@ -1,35 +1,35 @@
 <h1 align="center">👨🏻‍💻 Gabriel Aquino</h1>
 
 <p align="center">
-  <strong>Engenharia de Computação • Agrocomputação • Inteligência Artificial</strong>
+  <strong>Engenheiro em formação • Tecnólogo em Agrocomputação • Entusiasta de IA e Ciência de Dados</strong>
 </p>
 
 <p align="center">
-  Construindo conhecimento entre matemática, algoritmos, dados e sistemas complexos.
+  Explorando a interseção entre computação, matemática, inteligência artificial e análise de dados.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Computação e Agrocomputação pela UFMT.
+Sou Tecnólogo em Agrocomputação pela UniSenai e atualmente curso o 6º semestre de Engenharia de Computação.
 
-Tenho interesse em compreender os fundamentos por trás da tecnologia, explorando áreas como Inteligência Artificial, Ciência de Dados, Geoprocessamento, Matemática Aplicada e Desenvolvimento de Software.
+Tenho interesse em compreender os fundamentos da tecnologia, investigando desde algoritmos e estruturas de dados até inteligência artificial, ciência de dados, geoprocessamento e sistemas computacionais.
 
-Utilizo este perfil para reunir projetos acadêmicos, experimentos, estudos e ferramentas desenvolvidas ao longo da minha trajetória.
+Utilizo este perfil para documentar projetos, experimentos, estudos e pesquisas desenvolvidos ao longo da minha trajetória acadêmica e profissional.
 
 ---
 
-## 🎯 Áreas de Interesse
+## 🎯 Principais áreas de interesse
 
-- Inteligência Artificial e LLMs
+- Inteligência Artificial
 - Ciência de Dados
+- Machine Learning
 - Estruturas de Dados e Algoritmos
-- Linux e Software Livre
-- Geoprocessamento
-- Matemática Aplicada
 - Engenharia de Software
+- Geoprocessamento
 - Computação Científica
+- Linux e Software Livre
 
 ---
 
@@ -43,7 +43,6 @@ Utilizo este perfil para reunir projetos acadêmicos, experimentos, estudos e fe
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </p>
 
 ---
@@ -64,20 +63,18 @@ Utilizo este perfil para reunir projetos acadêmicos, experimentos, estudos e fe
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente
 
-- Inteligência Artificial
-- Engenharia de Software
-- Estruturas de Dados
-- Machine Learning
-- Geoprocessamento
-- Sistemas Linux
-- Matemática para Computação
+- Cursando Engenharia de Computação
+- Estudando Inteligência Artificial e LLMs
+- Desenvolvendo projetos de análise de dados
+- Explorando aplicações de computação no agronegócio
+- Produzindo materiais e estudos em matemática e computação
 
 ---
 
 ## 📖 Filosofia
 
-> "Não tenho interesse em decorar respostas. Quero entender os mecanismos."
+> "Compreender um sistema vale mais do que simplesmente utilizá-lo."
 
-> "Ferramentas mudam. A capacidade de compreender permanece."
+> "A busca pelos fundamentos é tão importante quanto a construção das soluções."
