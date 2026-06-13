@@ -1,80 +1,122 @@
 <h1 align="center">👨🏻‍💻 Gabriel Aquino</h1>
 
 <p align="center">
-  <strong>Engenheiro em formação • Tecnólogo em Agrocomputação • Entusiasta de IA e Ciência de Dados</strong>
+  <strong>Agricultural Computing Technologist • Computer Engineering Student</strong>
 </p>
 
 <p align="center">
-  Explorando a interseção entre computação, matemática, inteligência artificial e análise de dados.
+  Exploring the intersection of computing, mathematics, artificial intelligence, and data science.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou Tecnólogo em Agrocomputação pela UniSenai e atualmente curso o 6º semestre de Engenharia de Computação.
+I'm Gabriel Aquino, an Agricultural Computing Technologist graduated from UniSenai and currently a Computer Engineering student at UFMT (Federal University of Mato Grosso).
 
-Tenho interesse em compreender os fundamentos da tecnologia, investigando desde algoritmos e estruturas de dados até inteligência artificial, ciência de dados, geoprocessamento e sistemas computacionais.
+I'm a computing and mathematics enthusiast with a strong interest in understanding how complex systems work. My main areas of interest include Artificial Intelligence, Data Science, Algorithms, Software Engineering, Mathematical Modeling, and Geospatial Technologies.
 
-Utilizo este perfil para documentar projetos, experimentos, estudos e pesquisas desenvolvidos ao longo da minha trajetória acadêmica e profissional.
+This profile serves as a space to document projects, studies, experiments, and ideas developed throughout my academic and professional journey.
 
----
-
-## 🎯 Principais áreas de interesse
-
-- Inteligência Artificial
-- Ciência de Dados
-- Machine Learning
-- Estruturas de Dados e Algoritmos
-- Engenharia de Software
-- Geoprocessamento
-- Computação Científica
-- Linux e Software Livre
+> *"Between using a technology and understanding its mechanisms lies an entire universe of questions."*
 
 ---
 
-## 🛠️ Tecnologias
+## 🤖 Languages & Technologies
 
 <p align="left">
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C++" title="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="SQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Docker" title="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Arduino" title="Arduino" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="QGIS" title="QGIS" width="35px" src="https://raw.githubusercontent.com/qgis/QGIS/master/images/icons/qgis-icon-60x60.png" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Areas of Interest
 
-<p align="center">
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Data Structures & Algorithms
+- Software Engineering
+- Geospatial Technologies
+- Scientific Computing
+- Applied Mathematics
+- Linux Systems
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence and LLMs
+- Advanced Data Structures
+- Software Engineering
+- Machine Learning
+- Linux and Containers
+- Mathematics for Computing
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 Artificial Intelligence & Sentiment Analysis
+
+Projects involving natural language processing, LLMs, and data analysis for recommendation systems and information extraction.
+
+### 🌎 Geospatial Technologies & Digital Agriculture
+
+Applications of remote sensing, spatial analysis, and data science focused on agriculture and environmental data.
+
+### 📊 Data Science
+
+Data exploration, processing, visualization, and predictive analysis using Python and analytical tools.
+
+### ⚙️ Engineering & Algorithms
+
+Implementations of algorithms, data structures, and low-level computing concepts.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=chrusczak&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
+</div>
 
+<br/>
+
+<div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrusczak&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrusczak&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
   />
+</div>
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://github.com/chrusczak">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📚 Atualmente
-
-- Cursando Engenharia de Computação
-- Estudando Inteligência Artificial e LLMs
-- Desenvolvendo projetos de análise de dados
-- Explorando aplicações de computação no agronegócio
-- Produzindo materiais e estudos em matemática e computação
-
----
-
-## 📖 Filosofia
-
-> "Compreender um sistema vale mais do que simplesmente utilizá-lo."
-
-> "A busca pelos fundamentos é tão importante quanto a construção das soluções."
+<p align="center">
+  <i>"Understanding the fundamentals is just as important as building the solutions."</i>
+</p>
